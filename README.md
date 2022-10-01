@@ -3,7 +3,7 @@ This is a shopping cart program.  It takes input from the user and displays it i
 The program interacts with the user through the console. 
 This is my first program in C#.  Because of this, I wrote this software to learn the basics of the language.     
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/AI0ckZMp5vs)
 
 # Development Environment
 I used visual studio code with the microsoft c# extension to write this program.  
