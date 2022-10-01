@@ -30,17 +30,14 @@ Displays the menu and gets input from the user
             UserInput = Console.ReadLine();
             if (UserInput == "1")
             {
-                
                 Option5 = 1;
             }
             else if (UserInput == "2")
             {
-                
                 Option5 = 2;
             }
             else if (UserInput == "3")
             {
-                
                 Option5 = 3;
             }
             else if (UserInput == "4")
