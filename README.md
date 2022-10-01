@@ -1,11 +1,7 @@
 # Overview
-
-{Provide a description the software that you wrote to demonstrate the C# language.}
 This is a shopping cart program.  It takes input from the user and displays it in a list.  The user can then delete items, add items, and display total price of the cart. 
 The program interacts with the user through the console. 
-{Describe your purpose for writing this software.}
-This is my first program in C3.  Because of this, I wrote this software to learn the basics of C#.     
-
+This is my first program in C#.  Because of this, I wrote this software to learn the basics of the language.     
 
 [Software Demo Video](http://youtube.link.goes.here)
 
